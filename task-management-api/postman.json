@@ -48,7 +48,7 @@
         ],
         "body": {
           "mode": "raw",
-          "raw": "{\n    \"nome\": \"Atividade Spring Boot Atualizada\",\n    \"dataEntrega\": \"2025-12-31\",\n    \"responsavel\": \"Seu Nome - RU123456\"\n}"
+          "raw": "{\n    \"nome\": \"Atividade Spring Boot Atualizada\",\n    \"dataEntrega\": \"2025-12-12\",\n    \"responsavel\": \"Bruno Ricardo Wotzke - RU4726566\"\n}"
         }
       }
     },
@@ -62,3 +62,4 @@
   ]
 
 }
+
